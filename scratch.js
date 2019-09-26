@@ -1,4 +1,7 @@
-function test() {
+
+testV = test();
+
+var test = function() {
   var hello = 0;
   console.log("this does stuff");
 
@@ -8,5 +11,3 @@ function test() {
 var testV;
 
 console.log(testV);
-
-testV = test();
