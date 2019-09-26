@@ -6,4 +6,6 @@ function test() {
   console.log("this does stuff");
 }
 
+console.log(hello);
+
 test = 99;
