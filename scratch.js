@@ -6,6 +6,6 @@ function test() {
 }
 
 test();
-console.log(test);
+console.log(testV);
 
-var test = 99;
+var testV = 99;
