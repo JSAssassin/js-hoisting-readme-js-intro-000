@@ -1,8 +1,8 @@
+
 var test;
-var hello;
 
 function test() {
-  hello = 0;
+  var hello = 0;
   console.log("this does stuff");
 }
 
