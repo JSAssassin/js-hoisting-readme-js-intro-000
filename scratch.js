@@ -1,12 +1,11 @@
 
-var test;
 
 function test() {
-  hello = 0;
+  var hello = 0;
   console.log("this does stuff");
 }
 
 test();
-console.log(hello);
+console.log(test);
 
-test = 99;
+var test = 99;
