@@ -1,5 +1,6 @@
 
 var test;
+var hello;
 
 function test() {
   var hello = 0;
