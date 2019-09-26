@@ -3,7 +3,7 @@ var test;
 var hello;
 
 function test() {
-  var hello = 0;
+  hello = 0;
   console.log("this does stuff");
 }
 
