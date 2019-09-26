@@ -1,4 +1,5 @@
 
+var testV;
 
 function test() {
   var hello = 0;
