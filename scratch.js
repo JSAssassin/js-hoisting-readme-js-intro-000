@@ -9,4 +9,4 @@ function test() {
 test();
 console.log(testV);
 
-var testV = 99;
+testV = 99;
