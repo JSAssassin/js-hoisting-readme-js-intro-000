@@ -6,7 +6,6 @@ function test() {
   console.log("this does stuff");
 }
 
-test();
 console.log(testV);
 
 testV = 99;
