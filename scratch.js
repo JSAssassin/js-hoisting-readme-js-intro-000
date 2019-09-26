@@ -1,5 +1,5 @@
 
-var test
+var test;
 
 function test() {
   console.log("this does stuff");
