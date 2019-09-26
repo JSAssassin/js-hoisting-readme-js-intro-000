@@ -2,7 +2,7 @@ var testV;
 
 console.log(testV);
 
-testV = 99;
+testV = test();
 
 
 function test() {
